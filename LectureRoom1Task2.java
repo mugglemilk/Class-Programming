@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 
 class LectRoom {
@@ -32,4 +32,3 @@ public class LectureRoom1Task2 {
 
     }
 }
-*/
